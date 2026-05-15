@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% assign subtitle = "لحلقة " | append: page.number %}
+
+{% include main-section.html subtitle=subtitle title=page.title media=page.soundcloud_episode %}
+
+<div class="section">
+    <div class="section__title">لينوط</div>
+    <div class="section__content section__content--notes">{{ content }}</div>
+</div>
+
+{% include other-episodes.html  %}
+
+{% include author.html  %}

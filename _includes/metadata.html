@@ -1,0 +1,13 @@
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="image/png" href="{{ '/assets/favicon/favicon-32x32.png' | prepend: site.baseurl }}" sizes="32x32" />
+<link rel="icon" type="image/png" href="{{ '/assets/favicon/favicon-16x16.png' | prepend: site.baseurl }}" sizes="16x16" />
+{% if page.number %}
+    <title> الحلقة {{ page.number }} — {{ page.title }} &raquo; {{ site.title }} </title>
+{% else %}
+    <title> {{ page.subtitle }} &raquo; {{ site.title }} </title>
+{% endif %}
+
+<meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+{% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}

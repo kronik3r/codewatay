@@ -1,0 +1,51 @@
+# Site settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://codewatay.com" # the base hostname & protocol for your site
+
+title: لكود وأتاي ( Codewatay )
+description: The Voice Of The Moroccan Programming Community
+cover: /assets/imgs/cover/cover.jpg
+
+collections:
+  episodes:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: episodes
+    values:
+      layout: episode
+
+# Build settings
+markdown: kramdown
+highlighter: null
+sass:
+    sass_dir: assets/sass
+    style: compressed
+
+# Handling Reading
+exclude: ["README.md"]
+
+# User's info
+fullname: متقي الله مدان
+fullname_latin: Motaquillah Maddane
+twitter: https://twitter.com/electrik_frog
+website: http://electrik-frog.com
+facebook: https://www.facebook.com/electrik.frog
+
+# Podcast's social links
+podcast:
+  twitter: https://twitter.com/codewatay
+  facebook: https://www.facebook.com/codewatay
+  soundcloud: https://soundcloud.com/codewatay
+  rss: http://feeds.soundcloud.com/users/soundcloud:users:209087568/sounds.rss
+
+# SEO
+keywords:
+    - podcast
+    - programming
+    - maroc
+    - morocco
+    - codewatay
+    - لكود وأتاي

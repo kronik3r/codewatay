@@ -1,0 +1,14 @@
+<div class="episode-teaser">
+    <div class="episode-teaser__info" style="background-image: url(/assets/imgs/covers/teasers/{{ teaser.number }}.jpg);">
+        <div class="episode-teaser__info__number">الحلقة {{ teaser.number }}</div>
+        <div class="episode-teaser__info__length">شي {{ teaser.duration }} دقيقة</div>
+        <a href="{{ teaser.download_link }}" class="episode-teaser__info__download-link">تيليشارجي</a>
+    </div>
+
+    <div class="episode-teaser__content">
+        <a href="{{ teaser.url | prepend: site.baseurl }}" class="episode-teaser__content__title">{{ teaser.title }}</a>
+        <div class="episode-teaser__content__description">
+            {{ teaser.description }} <a href="{{ teaser.url | prepend: site.baseurl }}">[زيد قرا].</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,1405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"me",
+				"me.jpg	w:621 h:681"
+			],
+			[
+				"Pi",
+				"PipeTransform	alias"
+			],
+			[
+				"t",
+				"typings/"
+			],
+			[
+				"main",
+				"main.d.ts"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"_s",
+				"_site/"
+			],
+			[
+				"space",
+				"space-between"
+			],
+			[
+				"ls",
+				"lts	letter-spacing"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"no",
+				"normalize.css"
+			],
+			[
+				"fw",
+				"fxw-w	flex-wrap: wrap;"
+			],
+			[
+				"po",
+				"pos:r	position:relative"
+			],
+			[
+				"controller",
+				"controllerAs"
+			],
+			[
+				"set",
+				"setupUserObject"
+			],
+			[
+				"is",
+				"isSaved"
+			],
+			[
+				"save",
+				"saveToLocalStorage"
+			],
+			[
+				"user",
+				"userInfo"
+			],
+			[
+				"a",
+				"access.config.js"
+			],
+			[
+				"res",
+				"reset.controller.js"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"moda",
+				"modal"
+			],
+			[
+				"an",
+				"animate.css"
+			],
+			[
+				"con",
+				"connect.controller.js"
+			],
+			[
+				"load",
+				"loaded"
+			],
+			[
+				"state",
+				"states"
+			],
+			[
+				"event",
+				"eventsAttached"
+			],
+			[
+				"elm",
+				"elm"
+			],
+			[
+				"mod",
+				"modal"
+			],
+			[
+				"mo",
+				"modal"
+			],
+			[
+				"mode",
+				"modals-container.directive.js"
+			],
+			[
+				"te",
+				"template"
+			],
+			[
+				"tem",
+				"templateUrl"
+			],
+			[
+				"modal",
+				"modalRef"
+			],
+			[
+				"sh",
+				"shModalProvider"
+			],
+			[
+				"ct",
+				"ctrl	ng-controller"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"JW",
+				"JWTAuth"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"inline",
+				"inline-flex"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"flex-",
+				"flex-end"
+			],
+			[
+				"for",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"base",
+				"baseline"
+			],
+			[
+				"start",
+				"flex-start"
+			],
+			[
+				"js",
+				"js_dist/"
+			],
+			[
+				"css",
+				"css_dist/"
+			],
+			[
+				"css_",
+				"css_src/"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"atelier-sa",
+				"atelier-savanna.dark.css"
+			],
+			[
+				"s",
+				"styles/"
+			],
+			[
+				"command",
+				"OrganizeMeetupCommand"
+			],
+			[
+				"Command",
+				"CommandBus"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"phpon",
+				"phpinfo"
+			],
+			[
+				"bear",
+				"bear_id"
+			],
+			[
+				"body",
+				"bodyParser"
+			],
+			[
+				"angu",
+				"angular-route/"
+			],
+			[
+				"boo",
+				"bootstrap.min.css"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bo",
+				"bower_components/"
+			],
+			[
+				"temp",
+				"templates"
+			],
+			[
+				"gulp",
+				"gulp-config.json"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "close",
+		"selected_items":
+		[
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"loce",
+				"SublimeLinter: No Column Highlights Entire Line"
+			],
+			[
+				"prevew",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"lcose",
+				"File: Close All"
+			],
+			[
+				"rename",
+				"Emmet: Rename Tag"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"sstype",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"ssliq",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"ssliqu",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"sslyq",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"liquid",
+				"Set Syntax: HTML (Liquid)"
+			],
+			[
+				"reanme",
+				"ANF: Rename File"
+			],
+			[
+				"ren",
+				"Emmet: Rename Tag"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS3"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"package en",
+				"Package Control: Enable Package"
+			],
+			[
+				"case ca",
+				"Convert Case: Title Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"eval",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"evalu",
+				"Emmet: Evaluate Math Expression"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"ssl",
+				"Set Syntax: LESS"
+			],
+			[
+				"upperca",
+				"Convert Case: Upper Case"
+			],
+			[
+				"reane",
+				"Emmet: Rename Tag"
+			],
+			[
+				"ss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sssas",
+				"Set Syntax: Sass"
+			],
+			[
+				"reana",
+				"Emmet: Rename Tag"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: src",
+				"Snippet: Script Tag with src"
+			],
+			[
+				"sssa",
+				"Set Syntax: Sass"
+			],
+			[
+				"sssass",
+				"Set Syntax: Sass"
+			],
+			[
+				"sss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"ssas",
+				"Set Syntax: Sass"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"origami create",
+				"Origami: Create Pane Above"
+			],
+			[
+				"brows",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssmar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sstwi",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"construct",
+				"Snippet: function __construct"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"contruct",
+				"Snippet: function __construct"
+			],
+			[
+				"constr",
+				"Snippet: function __construct"
+			],
+			[
+				"origami",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"func",
+				"Snippet: function …"
+			],
+			[
+				"ssruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"packege ",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"browse",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"Lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"vlose",
+				"Convert Case: Lower Case"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"ssasas",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/motaqui/websites/codewatay",
+		"/Users/motaqui/websites/codewatay/_episodes"
+	],
+	"file_history":
+	[
+		"/Users/motaqui/websites/codewatay/index.md",
+		"/Users/motaqui/websites/codewatay/_episodes/2.md",
+		"/Users/motaqui/websites/codewatay/dedicace.md",
+		"/Users/motaqui/websites/codewatay/_episodes/1.md",
+		"/Users/motaqui/websites/codewatay/_episodes/0.md",
+		"/Users/motaqui/websites/codewatay/2.md",
+		"/Users/motaqui/websites/codewatay/assets/sass/_layout.scss",
+		"/Users/motaqui/websites/codewatay/.gitignore",
+		"/Users/motaqui/websites/codewatay/assets/sass/_base.scss",
+		"/Users/motaqui/websites/codewatay/assets/sass/_settings.scss",
+		"/Users/motaqui/websites/codewatay/_includes/footer.html",
+		"/Users/motaqui/websites/codewatay/index.html",
+		"/Users/motaqui/websites/codewatay/copyright.md",
+		"/Users/motaqui/websites/codewatay/about.md",
+		"/Users/motaqui/websites/codewatay/copyright.html",
+		"/Users/motaqui/websites/codewatay/how-to-use.md",
+		"/Users/motaqui/websites/codewatay/_config.yml",
+		"/Users/motaqui/websites/codewatay/_includes/header.html",
+		"/Users/motaqui/websites/codewatay/README.md",
+		"/Users/motaqui/websites/codewatay/assets/sass/_utilities.scss",
+		"/Users/motaqui/websites/codewatay/_includes/teaser.html",
+		"/Users/motaqui/websites/codewatay/_includes/other-episodes.html",
+		"/Users/motaqui/websites/codewatay/_includes/main-section.html",
+		"/Users/motaqui/websites/codewatay/codewatay-jk.sublime-project",
+		"/Users/motaqui/websites/codewatay/_includes/author.html",
+		"/Users/motaqui/websites/codewatay/_site/assets/main.css",
+		"/Users/motaqui/websites/codewatay/assets/sass/_normalize.scss",
+		"/Users/motaqui/websites/codewatay/assets/sass/_fonts.scss",
+		"/Users/motaqui/websites/codewatay/assets/main.scss",
+		"/Users/motaqui/websites/codewatay/Gemfile",
+		"/Users/motaqui/websites/codewatay/gulp.js/index.js",
+		"/Users/motaqui/websites/codewatay/gulp.js/default.js",
+		"/Users/motaqui/websites/codewatay/gulp.js/serve.js",
+		"/Users/motaqui/websites/codewatay/gulp.js/config.json",
+		"/Users/motaqui/websites/codewatay/gulp.js/revisioning.js",
+		"/Users/motaqui/websites/codewatay/gulp.js/styles.js",
+		"/Users/motaqui/websites/codewatay/package.json",
+		"/Users/motaqui/websites/codewatay/_includes/analytics.html",
+		"/Users/motaqui/websites/codewatay/_layouts/default.html",
+		"/Users/motaqui/websites/codewatay/feed.xml",
+		"/Users/motaqui/websites/codewatay/_includes/sharing.html",
+		"/Users/motaqui/websites/codewatay/_includes/metadata.html",
+		"/Users/motaqui/websites/codewatay/_layouts/episode.html",
+		"/Users/motaqui/websites/codewatay/_layouts/page.html",
+		"/Users/motaqui/websites/codewatay/Gemfile.lock",
+		"/Users/motaqui/websites/codewatay/assets/favicon/code.txt",
+		"/Users/motaqui/websites/codewatay/CNAME",
+		"/Users/motaqui/websites/codewatay/src/about.html",
+		"/Users/motaqui/websites/codewatay/src/assets/sass/core/_layout.scss",
+		"/Users/motaqui/websites/codewatay/src/assets/sass/core/_utilities.scss",
+		"/Users/motaqui/websites/codewatay/src/assets/sass/core/_settings.scss",
+		"/Users/motaqui/websites/codewatay/src/assets/sass/main.scss",
+		"/Users/motaqui/websites/codewatay/src/assets/sass/core/_base.scss",
+		"/Users/motaqui/websites/codewatay/src/writer.html",
+		"/Users/motaqui/websites/codewatay/src/assets/sass/fonts/_fonts.scss",
+		"/Users/motaqui/Downloads/AraHamahFonts/Web Package/AraHamahAlHorra-Regular/preview.html",
+		"/Users/motaqui/Downloads/AraHamahFonts/Web Package/AraHamahAlFidaa-Regular/styles.css",
+		"/Users/motaqui/Downloads/AraHamahFonts/Web Package/AraHamahAlHorra-Regular/styles.css",
+		"/Users/motaqui/websites/codewatay/codewatay.sublime-project",
+		"/Users/motaqui/websites/codewatay/src/assets/sass/core/_normlize.scss",
+		"/Users/motaqui/websites/codewatay/node_modules/normalize.css/normalize.css",
+		"/Users/motaqui/websites/codewatay/gulpfile.js/dev/styles.js",
+		"/Users/motaqui/websites/codewatay/gulpfile.js/config.json",
+		"/Users/motaqui/websites/codewatay/gulpfile.js/dev/serve.js",
+		"/Users/motaqui/websites/codewatay/gulpfile.js/dev/default.js",
+		"/Users/motaqui/websites/codewatay/src/index.html",
+		"/Users/motaqui/websites/codewatay/core/settings.scss",
+		"/Users/motaqui/websites/ng1-migration-workshop/app/js/core/checkmark.pipe.ts",
+		"/Users/motaqui/websites/ng1-migration-workshop/app/js/core/core.module.ts",
+		"/Users/motaqui/websites/ng1-migration-workshop/app/js/phone_detail/phone_detail.controller.js",
+		"/Users/motaqui/websites/ng1-migration-workshop/app/js/phone_list/phone_list.controller.js",
+		"/Users/motaqui/websites/ng1-migration-workshop/tsconfig.json",
+		"/Users/motaqui/websites/ng1-migration-workshop/app/js/core/phone.service.ts",
+		"/Users/motaqui/websites/ng1-migration-workshop/karma.conf.js",
+		"/Users/motaqui/websites/ng1-migration-workshop/typings.json",
+		"/Users/motaqui/websites/ng1-migration-workshop/app/js/app.module.ts",
+		"/Users/motaqui/websites/ng1-migration-workshop/app/js/app.config.ts",
+		"/Users/motaqui/websites/ng1-migration-workshop/app/bootstrap.ts",
+		"/Users/motaqui/websites/ng1-migration-workshop/app/js/core/core.module.js",
+		"/Users/motaqui/websites/ng1-migration-workshop/app/js/core/phone.factory.js",
+		"/Users/motaqui/websites/ng1-migration-workshop/app/index.html",
+		"/Users/motaqui/websites/ng1-migration-workshop/package.json",
+		"/Users/motaqui/websites/ng1-migration-workshop/webpack.config.js",
+		"/Users/motaqui/websites/ng1-migration-workshop/.gitignore",
+		"/Users/motaqui/websites/ng1-migration-workshop/test/karma.conf.js",
+		"/Users/motaqui/websites/ng1-migration-workshop/ts-output/app/js/core/core.module.js.map",
+		"/Users/motaqui/websites/ng1-migration-workshop/ts-output/app/js/core/core.module.js",
+		"/Users/motaqui/websites/experiments/angular/index.html",
+		"/Users/motaqui/websites/experiments/angular/app/main.ts",
+		"/Users/motaqui/websites/experiments/angular/app/app.component.ts",
+		"/Users/motaqui/websites/experiments/angular/package.json",
+		"/Users/motaqui/websites/experiments/angular/typings/main.d.ts",
+		"/Users/motaqui/websites/experiments/angular/typings.json",
+		"/Users/motaqui/websites/experiments/angular/tsconfig.json",
+		"/Users/motaqui/websites/blog/_layouts/projects.html",
+		"/Users/motaqui/websites/blog/_includes/footer.html",
+		"/Users/motaqui/websites/blog/_includes/metatags/base.html",
+		"/Users/motaqui/websites/blog/_includes/header.html",
+		"/Users/motaqui/websites/blog/_layouts/post.html",
+		"/Users/motaqui/websites/blog/_layouts/default.html",
+		"/Users/motaqui/websites/blog/about.md",
+		"/Users/motaqui/websites/blog/projects.md",
+		"/Users/motaqui/websites/blog/_includes/metatags/sharing.html",
+		"/Users/motaqui/websites/blog/_posts/2015-09-05-understanding.md",
+		"/Users/motaqui/websites/blog/_config.yml",
+		"/Users/motaqui/websites/blog/_posts/2015-02-02-blog-name-explained.md",
+		"/Users/motaqui/websites/blog/index.html",
+		"/Users/motaqui/websites/blog/feed.xml",
+		"/Users/motaqui/websites/blog/my-place.sublime-project",
+		"/Users/motaqui/websites/blog/_site/LICENSE",
+		"/Users/motaqui/websites/blog/_sass/core/_base.scss",
+		"/Users/motaqui/websites/blog/_sass/pages/_about.scss",
+		"/Users/motaqui/websites/blog/_layouts/about.html",
+		"/Users/motaqui/websites/blog/_sass/pages/_post.scss",
+		"/Users/motaqui/websites/blog/_sass/layout/_footer.scss",
+		"/Users/motaqui/websites/blog/_sass/_rwd.scss",
+		"/Users/motaqui/websites/blog/_sass/pages/_projects.scss",
+		"/Users/motaqui/websites/blog/CNAME",
+		"/Users/motaqui/websites/blog/_sass/layout/_header.scss",
+		"/Users/motaqui/websites/blog/_posts/2015-09-02-essential-developer-apps-for-your-brand-new-mac.md",
+		"/Users/motaqui/websites/blog/_posts/2015-10-01-testing.md",
+		"/Users/motaqui/websites/blog/.gitignore",
+		"/Users/motaqui/websites/electrik-frog-jk/.gitignore",
+		"/Users/motaqui/websites/electrik-frog-jk/_posts/2015-10-01-testing.md",
+		"/Users/motaqui/websites/electrik-frog-jk/_sass/core/_syntax-highlighter.scss",
+		"/Users/motaqui/websites/electrik-frog-jk/_sass/core/_base.scss",
+		"/Users/motaqui/websites/electrik-frog-jk/_layouts/post.html",
+		"/Users/motaqui/websites/electrik-frog-jk/_layouts/default.html"
+	],
+	"find":
+	{
+		"height": 68.0
+	},
+	"find_in_files":
+	{
+		"height": 190.0,
+		"where_history":
+		[
+			"",
+			"/Users/motaqui/websites/the-bus/itch"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"download-link",
+			"episode",
+			"-",
+			"[",
+			"section",
+			"#",
+			".section",
+			"section",
+			".main-section",
+			".header",
+			"download-link",
+			"info",
+			"display: -webkit-box;\n  display: -webkit-flex;\n  display: -ms-flexbox;\n  display: flex;",
+			"fkex",
+			"var config = require('../config');",
+			"www.codewatay",
+			"og:title",
+			"url",
+			"og:url",
+			"article:author",
+			"| prepend: site.url",
+			"fullname",
+			"section",
+			": site.",
+			"append",
+			"preprend",
+			"--expended",
+			"section--expended",
+			"footer",
+			"extended",
+			"episode",
+			"main-section",
+			"href=\"/index.html\"",
+			"<a",
+			"div",
+			".11",
+			"font-size",
+			"section__title",
+			"previous-episodes",
+			"<a",
+			"div",
+			"AraHamahAlFidaa/",
+			"AraHamahAlFidaa",
+			"AraHamahAlFidaa-Regular.",
+			"AraHamahAlFidaa-Regular.eot",
+			"AraHamahAlHorra-Regular",
+			"AraHamahAlHorra-Regular.",
+			"phonecatApp",
+			"import ",
+			"app/js",
+			"js/",
+			"bower_components",
+			"bower_component",
+			"bower_components",
+			"#",
+			"#4",
+			"page.cover",
+			"author",
+			"tag",
+			"{{ page.url | replace:'index.html','' | prepend: site.url }}",
+			"meta_tags",
+			"include",
+			"image",
+			"targer",
+			"href",
+			".credits",
+			".footer",
+			"red",
+			"font-size",
+			"project",
+			":not",
+			"include e",
+			":not",
+			"not",
+			":not",
+			"post-tags",
+			"$oranges",
+			";\n",
+			"additional-class",
+			"z-index",
+			";\n",
+			"margin-top: 3.8em;",
+			"z-index",
+			"info",
+			"```",
+			"{% verbatim %}",
+			"verbatim",
+			"block",
+			"{% endverbatim %}",
+			"{% verbatim %}",
+			"verbatim",
+			"line",
+			"content",
+			"vectorial-img",
+			"a",
+			".mac-app-icon",
+			"target=_blank",
+			"{.mac-app-title",
+			"{:.cls}",
+			".header",
+			".padding",
+			".menu",
+			".title",
+			"title",
+			".title",
+			"logo",
+			".logo",
+			"post-teaser",
+			"@media (max-width: 800px)",
+			"{% verbatim %}",
+			"verbatim",
+			".logo",
+			":",
+			"sets",
+			"category",
+			"categories",
+			"url",
+			"link",
+			".back",
+			"<a",
+			".content",
+			"_",
+			"7",
+			".title",
+			"{",
+			"<br>",
+			".post-info",
+			"post-info"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$mr-white",
+			"$oranges",
+			"$iron",
+			"sh.access",
+			">",
+			"height",
+			"=",
+			"{\n",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 74.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 230.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 200.0
+	},
+	"pinned_build_system": "",
+	"project": "codewatay-jk.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"header",
+				"_includes/header.html"
+			],
+			[
+				"config",
+				"_config.yml"
+			],
+			[
+				"layout",
+				"assets/sass/_layout.scss"
+			],
+			[
+				"steting",
+				"assets/sass/_settings.scss"
+			],
+			[
+				"utilie",
+				"assets/sass/_utilities.scss"
+			],
+			[
+				"footer",
+				"_includes/footer.html"
+			],
+			[
+				"main",
+				"_includes/main-section.html"
+			],
+			[
+				"default",
+				"_layouts/default.html"
+			],
+			[
+				"mainsec",
+				"_includes/main-section.html"
+			],
+			[
+				"episode",
+				"_episodes/0.md"
+			],
+			[
+				"settings",
+				"src/assets/sass/core/_settings.scss"
+			],
+			[
+				"setting",
+				"src/assets/sass/core/_settings.scss"
+			],
+			[
+				"norm",
+				"node_modules/normalize.css/normalize.css"
+			],
+			[
+				"packages",
+				"package.json"
+			],
+			[
+				"karma",
+				"test/karma.conf.js"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"karmaconf",
+				"test/karma.conf.js"
+			],
+			[
+				"base",
+				"_includes/metatags/base.html"
+			],
+			[
+				"project",
+				"_layouts/projects.html"
+			],
+			[
+				"defaut",
+				"_layouts/default.html"
+			],
+			[
+				"post.html",
+				"_layouts/post.html"
+			],
+			[
+				"about",
+				"about.md"
+			],
+			[
+				"post",
+				"_posts/2015-09-05-understanding.md"
+			],
+			[
+				"meta",
+				"_includes/metatags/base.html"
+			],
+			[
+				"layout/post",
+				"_layouts/post.html"
+			],
+			[
+				"projects",
+				"projects.md"
+			],
+			[
+				"heade",
+				"_includes/header.html"
+			],
+			[
+				"rwd",
+				"_sass/_rwd.scss"
+			],
+			[
+				"projec",
+				"_layouts/projects.html"
+			],
+			[
+				"head",
+				"_includes/header.html"
+			],
+			[
+				"header.",
+				"_sass/layout/_header.scss"
+			],
+			[
+				"post.cs",
+				"_sass/pages/_post.scss"
+			],
+			[
+				"post.scss",
+				"_sass/pages/_post.scss"
+			],
+			[
+				"variable",
+				"_sass/core/_variables.scss"
+			],
+			[
+				"rw",
+				"_sass/_rwd.scss"
+			],
+			[
+				"post.s",
+				"_sass/pages/_post.scss"
+			],
+			[
+				"teaser",
+				"_includes/post/teaser.html"
+			],
+			[
+				"_posts/",
+				"_posts/2015-02-02-blog-name-explained.md"
+			],
+			[
+				"variables",
+				"_sass/core/_variables.scss"
+			],
+			[
+				"va",
+				"src/assets/sass/core/_variables.scss"
+			],
+			[
+				"home",
+				"src/home.html"
+			],
+			[
+				"home.scss",
+				"src/assets/sass/pages/home.scss"
+			],
+			[
+				"lyou",
+				"src/assets/sass/layout/_content.scss"
+			],
+			[
+				"content",
+				"src/assets/sass/layout/_content.scss"
+			],
+			[
+				"hoe",
+				"src/home.html"
+			],
+			[
+				"ba",
+				"src/assets/sass/_base.scss"
+			],
+			[
+				"main.css",
+				"src/assets/sass/main.scss"
+			],
+			[
+				"varia",
+				"src/assets/sass/_variables.scss"
+			],
+			[
+				"packe",
+				"package.json"
+			],
+			[
+				"gulp/style",
+				"gulp/tasks/styles.js"
+			],
+			[
+				"main.scs",
+				"src/assets/sass/main.scss"
+			],
+			[
+				"user.js",
+				"src/app/access/user.js"
+			],
+			[
+				"homecontr",
+				"src/app/home/home.controller.js"
+			],
+			[
+				"access/config",
+				"src/app/access/access.config.js"
+			],
+			[
+				"user",
+				"src/app/access/user.js"
+			],
+			[
+				"connect/",
+				"src/app/access/connect/connect.controller.js"
+			],
+			[
+				"access/user",
+				"src/app/access/user.js"
+			],
+			[
+				"_form",
+				"src/assets/sass/_form.scss"
+			],
+			[
+				"modal.con",
+				"src/app/config/modals.config.js"
+			],
+			[
+				"config/moda",
+				"src/app/config/modals.config.js"
+			],
+			[
+				"index.",
+				"src/index.html"
+			],
+			[
+				"base.",
+				"src/assets/sass/_base.scss"
+			],
+			[
+				"form.css",
+				"src/assets/sass/_form.scss"
+			],
+			[
+				"form.cs",
+				"src/assets/sass/_form.scss"
+			],
+			[
+				"modal.scs",
+				"src/assets/sass/_modals.scss"
+			],
+			[
+				"container",
+				"src/app/components/modal/modals-container.html"
+			],
+			[
+				"modal.scss",
+				"src/assets/sass/_modals.scss"
+			],
+			[
+				"compo",
+				"src/components.html"
+			],
+			[
+				"fae",
+				"src/app/fake/fake.controller.js"
+			],
+			[
+				"_base",
+				"src/assets/sass/_base.scss"
+			],
+			[
+				"_variable",
+				"src/assets/sass/_variables.scss"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"app.js",
+				"public/scripts/app.js"
+			],
+			[
+				"database",
+				"database/seeds/DatabaseSeeder.php"
+			],
+			[
+				"app/route",
+				"app/Http/routes.php"
+			],
+			[
+				"config/app",
+				"config/app.php"
+			],
+			[
+				"composer.js",
+				"composer.json"
+			],
+			[
+				"ex7",
+				"src/flex/assets/exp7.css"
+			],
+			[
+				"ex8",
+				"src/flex/assets/exp8.css"
+			],
+			[
+				"exp7",
+				"src/flex/assets/exp7.css"
+			],
+			[
+				"exp6",
+				"src/flex/assets/exp6.css"
+			],
+			[
+				"exp3",
+				"src/flex/assets/exp3.css"
+			],
+			[
+				"bae.css",
+				"src/flex/assets/base.css"
+			],
+			[
+				"exp2",
+				"src/flex/assets/exp2.css"
+			],
+			[
+				"custom",
+				"css/custom.css"
+			],
+			[
+				"sleton",
+				"dist/css/skeleton.css"
+			],
+			[
+				"filenew",
+				"gulpfile.new.js"
+			],
+			[
+				"about.",
+				"about.md"
+			],
+			[
+				"default.sc",
+				"_sass/_default.scss"
+			],
+			[
+				"sc",
+				"_includes/scripting.html"
+			],
+			[
+				"_post",
+				"assets/sass/_post.scss"
+			],
+			[
+				"routes.php",
+				"app/Http/routes.php"
+			],
+			[
+				"user.php",
+				"app/User.php"
+			],
+			[
+				"dispatchesjobs",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Bus/DispatchesJobs.php"
+			],
+			[
+				"public/routes",
+				"public/js/routes.js"
+			],
+			[
+				"routes.",
+				"app/routes.js"
+			],
+			[
+				"bower.json",
+				"bower.json"
+			],
+			[
+				"inde.html",
+				"public/views/index.html"
+			],
+			[
+				"inde",
+				"src/index.html"
+			],
+			[
+				"gulpfile",
+				"gulpfile.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				"gulp-config",
+				"stone-makina/gulp-config.json"
+			],
+			[
+				"package.json",
+				"stone-makina/package.json"
+			],
+			[
+				"index.htl",
+				"src/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

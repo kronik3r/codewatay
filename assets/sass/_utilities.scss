@@ -1,0 +1,9 @@
+.u-highlight {
+    color: $ATAY_COLOR;
+}
+
+.u-bg-gradient-main {
+    background-color: $MAIN_COLOR;
+    background-image: -webkit-linear-gradient(top left, #1D214C, #35395F 40%, #373A60 60%, #535676 90%);
+    background-image: linear-gradient(to bottom right, #1D214C, #35395F 40%, #373A60 60%, #535676 90%);
+}

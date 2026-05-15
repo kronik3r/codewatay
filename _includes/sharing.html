@@ -1,0 +1,29 @@
+{% if page.number %}
+    {% capture title %}الحلقة {{ page.number }} — {{ page.title }} &raquo; {{ site.title }}{% endcapture %}
+    {% capture cover %}{{site.url}}/assets/imgs/covers/social/{{ page.number }}.jpg{% endcapture %}
+{% else %}
+    {% capture title %}{{ page.subtitle }} &raquo; {{ site.title }}{% endcapture %}
+    {% capture cover %}{{ site.url }}{{ site.cover }}{% endcapture %}
+{% endif %}
+
+{% if page.description %} {% assign description = page.description %} {% else %} {% assign description = site.description %} {% endif %}
+{% if page.keywords %} {% assign keywords = page.keywords %} {% else %} {% assign keywords = site.keywords %} {% endif %}
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="{{ title }}" />
+<meta name="twitter:description" content="{{ description }}" />
+<meta name="twitter:image" content="{{ cover }}" />
+
+<!-- Open Graph -->
+<meta property="og:type" content="article">
+<meta property="og:locale" content="ar_AR" />
+<meta property="og:title" content="{{ title }}">
+<meta property="og:image" content="{{ cover }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="article:author" content="{{ site.facebook }}" />
+{% for tag in page.tags %}
+    <meta property="article:tag" content="{{ tag }}">
+{% endfor %}
